@@ -20,7 +20,7 @@ Click to View High Quality
 
 Created with Love by **Mohammad Reza Firouzi** 
 
-* [Github]([https://github.com/ahmmedrejowan](https://github.com/MohammadrezaFirouzi/)) 
+* [Github](https://github.com/MohammadrezaFirouzi/)
 * [Rubika](https://rubika.ir/Mohamadreza_firouzim)
 * [Telegram](https://t.me/Mohamadreza_firouziii)
 
