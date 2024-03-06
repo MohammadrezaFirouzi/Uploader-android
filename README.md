@@ -16,11 +16,10 @@ Click to View High Quality
 
 
 
-## Credits
+## Contact us
 
 Created with Love by **Mohammad Reza Firouzi** 
 
-Reach me @
 * [Github]([https://github.com/ahmmedrejowan](https://github.com/MohammadrezaFirouzi/)) 
 * [Rubika](https://rubika.ir/Mohamadreza_firouzim)
 * [Telegram](https://t.me/Mohamadreza_firouziii)
