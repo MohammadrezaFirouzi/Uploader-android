@@ -7,7 +7,11 @@
 
 Click to View High Quality
 
-![Screenshot](https://dl.up4u.ir/426-Screenshot_2024-03-06-20-42-28-629_com.firouzi.uploader.jpg)(https://up4u.ir/dl/dee-Screenshot_2024-03-06-20-42-31-880_com.firouzi.uploader.jpg)
+![Screenshot](https://dl.up4u.ir/426-Screenshot_2024-03-06-20-42-28-629_com.firouzi.uploader.jpg)
+
+</br>
+
+![Screenshot](https://dl.up4u.ir/dee-Screenshot_2024-03-06-20-42-31-880_com.firouzi.uploader.jpg)
 
 
 
