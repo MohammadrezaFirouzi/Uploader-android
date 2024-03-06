@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/idRLBottomSheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:backgroundTint="@color/white"
+    android:padding="20dp">
+
+
+
+    <!--Text view for displaying a heading text-->
+    <TextView
+        android:id="@+id/idTVtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:padding="5dp"
+        android:text="فایل شما با موفقیت آپلود شد "
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="300dp"
+        app:lottie_rawRes="@raw/check"
+        android:layout_gravity="center"
+        app:lottie_autoPlay="true"
+        android:layout_height="300dp"
+        android:padding="10dp"/>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:weightSum="2">
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_main_save2"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_marginTop="8dp"
+            app:icon="@drawable/baseline_close_24"
+            android:layout_gravity="end"
+            android:layout_marginBottom="32dp"
+            app:backgroundTint="#44443C"
+            android:text="بستن"
+            />
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_main_save"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            app:backgroundTint="#0DA0FF"
+            android:layout_gravity="end"
+            android:layout_marginBottom="32dp"
+            android:text="باز کردن لینک"
+            app:icon="@drawable/baseline_file_copy_24"
+            />
+
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/mmd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="طراحی توسط محمدرضا فیروزی"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"/>
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UPLOADER" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/vazir</item>
+        <item name="colorPrimary">@color/mmd</item>
+        <item name="android:statusBarColor">#2196F3</item>
+
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.UPLOADER" parent="Base.Theme.UPLOADER" />
+
+</resources>
