@@ -18,20 +18,19 @@ Click to View High Quality
 
 ## Credits
 
-Created with Love by **K M Rejowan Ahmmed** (@ahmmedrejowan)
+Created with Love by **Mohammad Reza Firouzi** 
 
 Reach me @
-* [Github](https://github.com/ahmmedrejowan) 
-* [LinkedIn](https://www.linkedin.com/in/ahmmedrejowan)
-* [Twitter](https://twitter.com/ahmmedrejowan)
-* [Facebook](https://facebook.com/ahmmedrejowan)
-* [StackOverFlow](https://stackoverflow.com/users/9932194/k-m-rejowan-ahmmed)
+* [Github]([https://github.com/ahmmedrejowan](https://github.com/MohammadrezaFirouzi/)) 
+* [Rubika](https://rubika.ir/Mohamadreza_firouzim)
+* [Telegram](https://t.me/Mohamadreza_firouziii)
 
 
 
 
 
 
+Good luck 🌟
 
 
 
