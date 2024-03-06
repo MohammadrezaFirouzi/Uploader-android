@@ -8,6 +8,7 @@
 Click to View High Quality
 
 ![Screenshot](https://dl.up4u.ir/426-Screenshot_2024-03-06-20-42-28-629_com.firouzi.uploader.jpg)
+![Screenshot](https://up4u.ir/dl/dee-Screenshot_2024-03-06-20-42-31-880_com.firouzi.uploader.jpg)
 
 
 ## Prerequisites
