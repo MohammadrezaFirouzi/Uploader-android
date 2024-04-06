@@ -11,7 +11,7 @@ Click to View High Quality
 
 </br>
 
-![Screenshot](https://dl.up4u.ir/dee-Screenshot_2024-03-06-20-42-31-880_com.firouzi.uploader.jpg)
+![Screenshot](https://uploadkon.ir/uploads/4bcb06_24Screenshot-2024-04-06-23-55-30-322-com-firouzi-uploader.jpg)
 
 
 
